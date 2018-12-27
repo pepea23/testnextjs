@@ -1,7 +1,5 @@
 import React from 'react'
 import App, { Container } from 'next/app'
-import 'antd/dist/antd.css'
-import 'bootstrap/dist/css/bootstrap.css'
 
 
 export default class MyApp extends App {
